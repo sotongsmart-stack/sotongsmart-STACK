@@ -1,0 +1,6 @@
+{
+  "name": "안전교육자 김은경의 세컨드 브레인",
+  "description": "지진안전, 화재안전, 응급처치, 환경안전, 디지털안전 지식을 통합 관리하고 실시간 협업, 역할 기반 권한 제어, 강력한 다차원 검색 필터 및 지식 그래프를 제공하는 안전교육 전문 세컨드 브레인 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
